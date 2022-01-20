@@ -1,6 +1,6 @@
 # class-27-v3
 
-
+sketch.js, boat.js changes(dowload sA) and continue
  Create an animated sprite from a GIF.
 ● Create SpriteSheet for boat animation.
 ● Create SpriteSheet for broken boat animation.
